@@ -1,14 +1,14 @@
-# 👉🏽 Hi there, my name is <span style="color:#70ad47">**Andrés Meléndez**</span>, my nickname <span style="color:#4472c4">**Codeslator**</span>
+# 👉🏽 Hi there, I'm **Andrés Meléndez**, my nickname **Codeslator**✌🏽
+## 🧑🏽‍💻 Frelancer Full-Stack Web Developer | 🧑🏽‍💼 Computer Science Engineer 
 
-## 🧑🏽‍💻 <span style="color:#4472c4">Frelancer Full-Stack Web Developer</span> | <span style="color:#70ad47">Computer Science Enginer</span> 🧑🏽‍💼
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeslator?style=social)](https://twitter.com/codeslator)
 ![GitHub Followers](https://img.shields.io/github/followers/codeslator?style=social)
 
-I'm a professional **Full-Stack Web Developer** fond of new technologies, lover of usability, user experience and always motivated to constantly develop and improve my skills and grow professionally with almost 4 years of experience in IT industry.
+I'm a professional **Full-Stack Web Developer** fond of new technologies, lover of usability, user experience and always motivated to constantly develop and improve my skills and grow professionally with almost 3 years of experience in IT industry.
 
-Currently living in 🇻🇪 and working as **Freelancer Developer** with multiple technologies such as JavaScript, PHP and Java, I'm creating my own site called **CodeslatorDev** to show my work to the world and I share my knowledge with everyone.
+Currently working as **Freelancer Developer** with multiple technologies such as JavaScript, PHP and Java, I'm creating my own site called **CodeslatorDev** to show my work to the world and I share my knowledge with everyone.
 
-# Skills
+# 🧩 Skills
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
@@ -31,15 +31,25 @@ Currently living in 🇻🇪 and working as **Freelancer Developer** with multip
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=101010)]()
 <br />
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
+[![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=MUI&logoColor=white&labelColor=101010)]()
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=101010)]()
 <br />
+
 And more...
 
-## Find me at:
+# 📌 Find me at:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andres_Melendez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/andrés-meléndez-b8104b171/)
 [![Twitter](https://img.shields.io/badge/Twitter-@codeslator-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/codeslator)
 [![Instagram](https://img.shields.io/badge/Instagram-@codeslator-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/codeslator)
+
+# 💎 Contact & Support:
+
+[![Email](https://img.shields.io/badge/andres.22.melendez@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:andres.22.melendez@gmail.com)
+<br />
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-support_my_work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/codeslator)
+<br />
+[![PayPal](https://img.shields.io/badge/PayPal-support_my_work-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=101010)](https://www.paypal.me/codeslator22)
 
 <!--
 **codeslator/codeslator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
